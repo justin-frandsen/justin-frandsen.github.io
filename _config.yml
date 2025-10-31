@@ -1,0 +1,40 @@
+# site settings
+title: Justin Frandsen
+subtitle: Cognitive Psychology & Vision Research
+email: justin.frandsen@tamu.edu
+description: Cognitive psychologist studying vision and attention. 
+baseurl: ""              # Empty for user sites
+url: "https://justin-frandsen.github.io"
+
+author:
+street_address:
+city: College Station
+state: TX
+zip_code: 77845
+country: United States of America
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/justin-frandsen
+  Instagram: https://www.instagram.com/jfrandsen01/
+  LinkedIn: https://www.linkedin.com/in/justin-frandsen/
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
