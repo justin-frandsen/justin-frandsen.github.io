@@ -21,6 +21,7 @@ Explore the site:
 - 🧠 [About](/about/)
 - 📄 [Publications](/publications/)
 - 💻 [Projects](/projects/)
-- 📬 [Contact](/about/#contact)
+- � [Tester](/tester/)
+- �📬 [Contact](/about/#contact)
 
 ---

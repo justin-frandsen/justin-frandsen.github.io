@@ -4,4 +4,4 @@ title: tester bester
 permalink: /tester/
 ---
 
-Testing if a new markdown file gets added to the landing page automatically
+Testing if a new markdown file gets added to the landing page automatically (It does not)
