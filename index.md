@@ -8,7 +8,7 @@ author: Justin Frandsen
 show_tile: false
 ---
 
-<img src="assets/images/justin-frandsen.jpg" alt="Justin Frandsen" width="220" style="border-radius: 50%; float: right; margin: 0 0 1.5em 1.5em;">
+<img src="assets/images/picofme.jpg" alt="Justin Frandsen" width="220" style="border-radius: 50%; float: right; margin: 0 0 1.5em 1.5em;">
 
 Welcome! I’m a cognitive psychologist and vision scientist interested in how people detect, attend to, and interact with visual information in complex environments.
 
