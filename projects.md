@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Below are selected projects and codebases. Send me text or links for any project you want showcased and I will add images, badges, and links.
+These are all fake projects: Ill update them to real later I just used ai to make fake ones here.
 
 - Adaptive Attention and Learning — A series of behavioral experiments examining how attention allocation affects category learning and generalization. Status: ongoing. Resources: experiments, preregistrations, open data.
 

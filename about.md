@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Justin Frandsen is a cognitive psychologist who studies attention and learning. My research investigates how attentional mechanisms shape what people learn, when they generalize knowledge across tasks, and how learning strategies change with experience. I use behavioral experiments, computational modeling, and open, reproducible workflows.
+Hi my name is Justin Frandsen I am a cognitive psychologist who studies attention and learning. My research investigates how attentional mechanisms shape what people learn and how learning shapes attention. I use behavioral experiments, computational modeling, and open, reproducible workflows.
 
-I split my time between designing lab experiments, developing computational models of attention-weighted learning, and working with collaborators to apply insights to real-world learning environments. I maintain a growing set of open datasets and code on GitHub and OSF.
+Add some more stuff!!!
 
 Contact & links
 
-- Email: (replace with your email)
+- Email: (justin.frandsen@tamu.edu)
 - GitHub: https://github.com/justin-frandsen
-- Google Scholar: (add link)
-- ORCID: (add ORCID)
+- Google Scholar: (https://scholar.google.com/citations?user=6svOSbIAAAAJ&hl=en)
+- ORCID: (https://orcid.org/0009-0007-9039-251X)
