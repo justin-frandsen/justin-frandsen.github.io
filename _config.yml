@@ -14,7 +14,7 @@ zip_code: 77845
 country: United States of America
 phone: (716) 555-5555
 
-# homepage tiles
+# homepage tiles so here is where we select the tiles source and count if we use more tiles than this it wont let us
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 

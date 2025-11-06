@@ -8,6 +8,8 @@ Hi my name is Justin Frandsen I am a cognitive psychologist who studies attentio
 
 Add some more stuff!!!
 
+See Elements for examples of what different things we can do look like there is some really cool stuff.
+
 Contact & links
 
 - Email: (justin.frandsen@tamu.edu)
