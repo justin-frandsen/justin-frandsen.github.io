@@ -116,7 +116,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Justin Frandsen"
   avatar           : "/assets/images/me.jpg"
   bio              : "I am an **amazing** person."
   location         : "College Station, TX"
