@@ -120,7 +120,7 @@ author:
   avatar           : "/assets/images/me.jpg"
   bio              : "Vision researcher specializing in visual attention and statistical learning."
   location         : "College Station, TX"
-  email            : 
+  email            : "justin.frandsen@tamu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -162,14 +162,14 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jfrandsen01"
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - _hobbies
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
