@@ -1,8 +1,16 @@
 ---
-title: "Lhasa Apso"
-excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
+title: "Rock Climbing"
+permalink: /climbing/
+layout: single
+author_profile: true
 ---
 
-> The Lhasa Apso (/ˈlɑːsə ˈæpsoʊ/ lah-sə ap-soh) is a non-sporting dog breed originating in Tibet. It was bred as an interior sentinel in the Buddhist monasteries, to alert the monks to any intruders who entered. Lhasa is the capital city of Tibet, and apso is a word in the Tibetan language meaning "bearded", so, Lhasa Apso simply means "long-haired Lhasa dog". There are, however, some who claim that the word "apso" is a form of the Tibetan word "rapso", meaning "goat-like", which would make the equivalent translation "wooly Lhasa dog".
+Rock climbing is one of my favorite ways to challenge both body and mind. I’m especially drawn to the problem-solving side of bouldering — figuring out subtle body positions, balance, and sequencing feels a lot like running an experiment, except the “data” are your own attempts on the wall.
 
-> <cite>From Wikipedia, the free encyclopedia</cite>
+I mainly climb on the **Tension Board**, where I’m currently working toward consistent **V8** sends. Outside, I love exploring new boulders and routes, documenting the process, and sharing a bit of the creativity that climbing brings to my life.
+
+You can follow my climbing and outdoor progress on Instagram:  
+👉 [@just_inclimb](https://www.instagram.com/just_inclimb)
+
+Yes **“just_inclimb”** is a play on *“just in time”*
+---

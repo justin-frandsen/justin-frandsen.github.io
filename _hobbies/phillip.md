@@ -1,8 +1,36 @@
 ---
-title: "Tabby"
-excerpt: "A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually with a mark resembling an 'M' on its forehead."
+title: "Phillip"
+permalink: /phillip/
+layout: single
+author_profile: true
+excerpt: "Meet Phillip — my Border Collie × Blue Heeler, born on a ranch near my hometown."
+phillip_gallery:
+  - url: /assets/images/phillip1.jpg
+    image_path: /assets/images/phillip1.jpg
+    alt: "Phillip on the ranch"
+  - url: /assets/images/phillip2.jpg
+    image_path: /assets/images/phillip2.jpg
+    alt: "Phillip mid-adventure"
+  - url: /assets/images/phillip3.jpg
+    image_path: /assets/images/phillip3.jpg
+    alt: "Phillip relaxing at home"
+last_modified_at: 2025-11-10T20:00:00-06:00
+toc: false
 ---
 
-> A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an 'M' on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. In fact, the tabby pattern is found in many breeds, as well as among the general mixed-breed population. The tabby pattern is a naturally occurring feature that may be related to the coloration of the domestic cat's direct ancestor, the African wildcat, which (along with the European wildcat and Asiatic wildcat) has a similar coloration.
+Meet **Phillip** — my Border Collie × Blue Heeler mix, and the best ranch-raised companion I could ask for.
 
-> <cite>From Wikipedia, the free encyclopedia</cite>
+Phillip was born on a ranch near my hometown, and he’s kept a bit of that working-dog spirit ever since. He’s smart, alert, and always ready for an adventure — whether that’s chasing a ball, exploring a trail, or keeping an eye on everything that moves.
+
+{% include gallery id="phillip_gallery" caption="Phillip through the years — from ranch life to study sessions." %}
+
+Like most herding dogs, he has a mix of focus and energy that’s both impressive and entertaining. He can spend hours outside running and problem-solving, but when it’s time to relax, he’s just as happy to curl up by my side while I work or read.
+
+Phillip’s personality is loyal, sharp, and a little mischievous — the perfect balance of companion and character. He has a knack for showing up just when I need a reminder to take a break or get outside.
+
+> “The bond with a true dog is as lasting as the ties of this earth can ever be.”  
+> <cite>— Konrad Lorenz</cite>
+
+---
+
+More photos and stories of Phillip coming soon.
