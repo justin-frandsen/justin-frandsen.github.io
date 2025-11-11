@@ -13,4 +13,4 @@ Broadly, my research focuses on how attention adapts through experience. I study
 
 I am also part of a collaboration with the **Yorzinski Lab** on *Saliency and Threat Detection in Fire Imagery*, where we apply **saliency models (GBVS)** and **image segmentation techniques** to examine how fire captures visual attention.
 
-Outside of research, I enjoy **rock climbing**, **cooking**, and building tools that connect cognitive science, data, and technology.
+Outside of research, I enjoy [**rock climbing**]({{ "/climbing/" | relative_url }}), **cooking**, and playing with my dog [**Phillip**]({{ "/phillip/" | relative_url }}).
