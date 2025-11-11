@@ -7,18 +7,20 @@ excerpt: "Meet Phillip — my Border Collie × Blue Heeler, born on a ranch near
 phillip_gallery:
   - url: /assets/images/phillip1.jpg
     image_path: /assets/images/phillip1.jpg
-    alt: "Phillip on the ranch"
+    alt: "Phillip chillin' at a park"
   - url: /assets/images/phillip2.jpg
     image_path: /assets/images/phillip2.jpg
-    alt: "Phillip mid-adventure"
-  - url: /assets/images/phillip3.jpg
-    image_path: /assets/images/phillip3.jpg
-    alt: "Phillip relaxing at home"
+    alt: "Phillip jumping on hay bales"
+  - url: /assets/images/phillip4.jpg
+    image_path: /assets/images/phillip4.jpg
+    alt: "Phillip climbing in Colorado Front Range with me"
 last_modified_at: 2025-11-10T20:00:00-06:00
 toc: false
 ---
 
-Meet **Phillip** — my Border Collie × Blue Heeler mix, and the best ranch-raised companion I could ask for.
+Meet **Phillip** — my Border Collie × Blue Heeler mix, and the best friend I could ask for.
+
+{% include figure image_path="/assets/images/phillip3.jpg" alt="Phillip cooling off in a cattle tank on the farm" caption="Phillip cooling off in a cattle tank on the farm." %}
 
 Phillip was born on a ranch near my hometown, and he’s kept a bit of that working-dog spirit ever since. He’s smart, alert, and always ready for an adventure — whether that’s chasing a ball, exploring a trail, or keeping an eye on everything that moves.
 

@@ -169,6 +169,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _hobbies
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
