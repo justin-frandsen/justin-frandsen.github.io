@@ -1,6 +1,8 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
+layout: single
+author_profile: true
 ---
 
 My name is **Justin Frandsen**.
