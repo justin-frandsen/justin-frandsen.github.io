@@ -1,38 +1,25 @@
 ---
 layout: splash
 permalink: /
-hidden: true
-title: "Home"
 author_profile: true
-#header:
-#  overlay_color: "#000"
-#  overlay_filter: "0.4"
-#  overlay_image: /assets/images/phillip3.jpg
-#  caption: "Photo by Justin Frandsen"
-#excerpt: >
-#  Vision science, attention, and the art of learning — welcome to my research and climbing life.
-#feature_row:
-#  - image_path: /assets/images/phillip1.jpg
-#    alt: "About"
-#    title: "About"
-#    excerpt: "Learn more about my background and research interests."
-#    url: "/about/"
-#    btn_label: "Read more"
-#    btn_class: "btn--primary"
-#  - image_path: /assets/images/phillip2.jpg
-#    alt: "Publications"
-#    title: "Publications"
-#    excerpt: "Current and upcoming research projects."
-#    url: "/publications/"
-#    btn_label: "View papers"
-#    btn_class: "btn--primary"
-#  - image_path: /assets/images/phillip4.jpg
-#    alt: "Climbing"
-#    title: "Climbing"
-#    excerpt: "My other passion — board training and outdoor bouldering."
-#    url: "/climbing/"
-#    btn_label: "Explore"
-#    btn_class: "btn--primary"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+excerpt: >
+  Welcome! I’m Justin Frandsen — a Vision Scientist studying how attention adapts through experience.
+feature_row:
+  - image_path: /assets/images/phillip1.jpg
+    alt: "Phillip"
+    title: "Meet Phillip"
+    url: "/phillip1/"
+    btn_label: "See more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/vss24thumb.jpg
+    alt: "VSS 2024 Poster"
+    title: "VSS 2024"
+    url: "/vss2024/"
+    btn_label: "View poster"
+    btn_class: "btn--primary"
 ---
 
-Testing home page
+{% include feature_row %}
