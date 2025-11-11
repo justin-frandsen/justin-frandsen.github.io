@@ -11,10 +11,10 @@ feature_row:
   - image_path: /assets/images/phillip1.jpg
     alt: "Phillip"
     title: "Meet Phillip"
-    url: "/phillip1/"
+    url: "/phillip/"
     btn_label: "See more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/vss24thumb.jpg
+  - image_path: /assets/images/vss24thumb.png
     alt: "VSS 2024 Poster"
     title: "VSS 2024"
     url: "/vss2024/"
