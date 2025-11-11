@@ -22,9 +22,9 @@ Meet **Phillip** — my Border Collie × Blue Heeler mix, and the best friend I 
 
 {% include figure image_path="/assets/images/phillip3.jpg" alt="Phillip cooling off in a cattle tank on the farm" caption="Phillip cooling off in a cattle tank on the farm." %}
 
-Phillip was born on a ranch near my hometown, and he’s kept a bit of that working-dog spirit ever since. He’s smart, alert, and always ready for an adventure — whether that’s chasing a ball, exploring a trail, or keeping an eye on everything that moves.
+Phillip was born on a ranch near my hometown. He is super smart and a crazy dog. He loves going on adventures and herding pigs and cows.
 
-{% include gallery id="phillip_gallery" caption="Phillip through the years — from ranch life to study sessions." %}
+{% include gallery id="phillip_gallery" caption="Phillip on various adventures." %}
 
 Like most herding dogs, he has a mix of focus and energy that’s both impressive and entertaining. He can spend hours outside running and problem-solving, but when it’s time to relax, he’s just as happy to curl up by my side while I work or read.
 
