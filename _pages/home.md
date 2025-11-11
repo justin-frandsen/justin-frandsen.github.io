@@ -1,23 +1,16 @@
-
 ---
-
-### 🎨 Option 2: Featured Section (uses Minimal Mistakes “cards”)
-
-If you want a more *landing-page look*:
-
-```yaml
----
-permalink: /
-title: "Home"
 layout: splash
+permalink: /
+hidden: true
+title: "Home"
 author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/phillip3.jpg
   caption: "Photo by Justin Frandsen"
-intro: 
-  - excerpt: "Vision science, attention, and the art of learning — welcome to my research and climbing life."
+excerpt: >
+  Vision science, attention, and the art of learning — welcome to my research and climbing life.
 feature_row:
   - image_path: /assets/images/phillip1.jpg
     alt: "About"
@@ -41,4 +34,5 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="feature_row" %}
+
+{% include feature_row %}
