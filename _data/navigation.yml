@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://justin-frandsen.github.io/about/
+    url: /about/ #https://justin-frandsen.github.io/about/
   - title: "Publications"
-    url: https://justin-frandsen.github.io/publications/
+    url: /publications/
+  - title: "Posts"
+    url: /posts/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
