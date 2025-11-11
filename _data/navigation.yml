@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: https://justin-frandsen.github.io/about/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Publications"
+    url: https://justin-frandsen.github.io/publications/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
