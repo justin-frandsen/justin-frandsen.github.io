@@ -3,14 +3,27 @@ title: "Research"
 permalink: /research/
 layout: single
 author_profile: true
+
+# Add CV + Resume buttons *in the header*
+header:
+  actions:
+    - label: "Download CV"
+      url: "/assets/cv/Justin_Frandsen_CV.pdf"
+      icon: "far fa-file"
+      class: "btn--primary"
+    - label: "Download Résumé"
+      url: "/assets/cv/Justin_Frandsen_Resume.pdf"
+      icon: "far fa-file-alt"
+      class: "btn--secondary"
+
+# Add navigation to this page
+toc: true
+toc_sticky: true
 ---
 
 # Research Overview
 
 My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in the Learning and Attention Lab. My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and neuroimaging methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
-
-{% include button label="Download CV" url="/assets/cv/Justin_Frandsen_CV.pdf" class="btn--primary" %}
-{% include button label="Download Résumé" url="/assets/cv/Justin_Frandsen_Resume.pdf" class="btn--secondary" %}
 
 ---
 
@@ -25,22 +38,22 @@ I investigate:
 
 - How regularities in object placement are learned  
 - How these regularities shape visual search  
-- How statistical learning interacts with semantic knowledge. 
+- How statistical learning interacts with semantic knowledge  
 
 ---
 
 ## Current Projects
 
-### **The Role of Exploration in how Object-Location Associations are Formed for distractors**  
-Examining how location regularities between regions of a scene 
+### **The Role of Exploration in How Object–Location Associations Are Formed for Distractors**  
+Examining how location regularities between scene regions shape attentional prioritization during visual exploration.
 
 ### **Independent Suppression of Multiple Distractors**  
 Investigating how the visual system learns to suppress dynamic and static salient distractors.  
 *In collaboration with Brad Stilwell.*
 
 ### **Saliency & Threat Detection in Fire Imagery**  
-Applying saliency models (GBVS) and image segmentation to understand how fire draws attention in captive primates who have never observed fire before.
-*In collaboration With the Yorzinski Lab*
+Applying saliency models (GBVS) and image segmentation to understand how fire attracts attention in captive primates with no real-world exposure to fire.  
+*In collaboration with the Yorzinski Lab.*
 
 ---
 
@@ -59,6 +72,3 @@ Applying saliency models (GBVS) and image segmentation to understand how fire dr
 
 - *Brain wave study offers hands-on research experience for psych students.*  
   **The Daily Nebraskan**, September 2022.
-
-  ---
-
