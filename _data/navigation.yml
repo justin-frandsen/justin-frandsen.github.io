@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/ #https://justin-frandsen.github.io/about/
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
   - title: "Posts"
     url: /posts/
   - title: "Presentations"
     url: /presentations/
-  - title: "Research"
-    url: /research/
+  - title: "Publications"
+    url: /publications/
