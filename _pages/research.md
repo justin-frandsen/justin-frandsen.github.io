@@ -9,9 +9,6 @@ author_profile: true
 
 My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in the Learning and Attention Lab. My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and neuroimaging methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
 
-{% include button label="Download CV" url="/assets/cv/Frandsen_CV.pdf" class="btn--primary" %}
-{% include button label="Download Résumé" url="/assets/cv/Resume_Justin_Frandsen.pdf" class="btn--secondary" %}
-
 ---
 
 ## Research Focus
