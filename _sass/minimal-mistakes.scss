@@ -11,6 +11,9 @@
 @import "minimal-mistakes/vendor/susy/susy";
 @import "minimal-mistakes/mixins";
 
+/* Academicons for ORCID, Google Scholar, etc. */
+@import url("https://cdn.jsdelivr.net/npm/academicons@1/css/academicons.min.css");
+
 /* Core CSS */
 @import "minimal-mistakes/reset";
 @import "minimal-mistakes/base";

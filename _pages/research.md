@@ -7,10 +7,4 @@ author_profile: true
 
 My name is **Justin Frandsen**.
 
-I'm a *Vision Scientist* and Ph.D. student in Cognition and Cognitive Neuroscience at **Texas A&M University**, where I work with [Dr. Brian A. Anderson](https://artsci.tamu.edu/psychological-brain-sciences/contact/profiles/brian-anderson.html) in the [Learning and Attention Lab](https://andersonlab.sites.tamu.edu/).
-
-Broadly, my research focuses on how attention adapts through experience. I study the mechanisms of visual attention and learning in complex, naturalistic environments using behavioral methods, eye tracking, and neuroimaging. My work has explored how semantic information and object–location regularities are learned through statistical learning, as well as how experience shapes attentional control.
-
-I am also part of a collaboration with the **Yorzinski Lab** on *Saliency and Threat Detection in Fire Imagery*, where we apply **saliency models (GBVS)** and **image segmentation techniques** to examine how fire captures visual attention.
-
-Outside of research, I enjoy [**rock climbing**]({{ "/climbing/" | relative_url }}), **cooking**, and playing with my dog [**Phillip**]({{ "/phillip/" | relative_url }}).
+Most of the existing work on scene grammar has studied these expectations utilizing real-world objects, but because associations with real-world objects have formed throughout an individuals lifetime, we don't know how this guidance has formed. Most work has framed this through the lens of semantic knowledge, or a higher level understanding of how the object occurs in the environment; however, a second 
