@@ -20,7 +20,7 @@ feature_row1:
     title: My Dog Phillip
     btn_label: "Meet Phillip"
     btn_class: "btn--primary"
-  - image_path: /assets/images/climbwyuri.jpeg
+  - image_path: /assets/images/climbwyuri.jpg
     alt: "Image of me and my friend Yuri climbing"
     url: "/climbing/"
     title: Climbing
