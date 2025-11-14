@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 permalink: /
 author_profile: true
 header:
