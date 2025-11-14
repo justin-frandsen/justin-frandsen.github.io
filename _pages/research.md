@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Overview"
 permalink: /research/
 layout: single
 author_profile: true
@@ -21,11 +21,7 @@ toc: true
 toc_sticky: true
 ---
 
-# Research Overview
-
 My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in the Learning and Attention Lab. My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and neuroimaging methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
-
----
 
 ## Research Focus
 
@@ -40,8 +36,6 @@ I investigate:
 - How these regularities shape visual search  
 - How statistical learning interacts with semantic knowledge  
 
----
-
 ## Current Projects
 
 ### **The Role of Exploration in How Object–Location Associations Are Formed for Distractors**  
@@ -55,8 +49,6 @@ Investigating how the visual system learns to suppress dynamic and static salien
 Applying saliency models (GBVS) and image segmentation to understand how fire attracts attention in captive primates with no real-world exposure to fire.  
 *In collaboration with the Yorzinski Lab.*
 
----
-
 ## Skills
 
 **Programming:** Python, R, MATLAB  
@@ -65,10 +57,3 @@ Applying saliency models (GBVS) and image segmentation to understand how fire at
 **Eye Tracking:** EyeLink 1000, DataViewer  
 **EEG:** Data collection & preprocessing  
 **Other:** Microsoft Office, experiment scripting, image processing (OpenCV, scikit-image)
-
----
-
-## Media Coverage
-
-- *Brain wave study offers hands-on research experience for psych students.*  
-  **The Daily Nebraskan**, September 2022.
