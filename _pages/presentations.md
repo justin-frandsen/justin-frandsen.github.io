@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Presentations
 - **Psychonomic Society Annual Meeting**, Denver, CO (2025)  
   *Up to the challenge: Suppression of multiple salient distractors*
 
