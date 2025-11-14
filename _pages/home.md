@@ -20,10 +20,10 @@ feature_row1:
     title: My Dog Phillip
     btn_label: "Meet Phillip"
     btn_class: "btn--primary"
-  - image_path: /assets/images/climbing.jpeg
-    alt: "Image of me climbing"
+  - image_path: /assets/images/climbwyuri.jpeg
+    alt: "Image of me and my friend Yuri climbing"
     url: "/climbing/"
-    title: Me climbing
+    title: Climbing
     btn_label: "See my climbing"
     btn_class: "btn--primary"
 ---
