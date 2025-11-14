@@ -22,7 +22,7 @@ I investigate:
 
 - How regularities in object placement are learned  
 - How these regularities shape visual search  
-- How statistical learning interacts with semantic knowledge, emotional valence, and task demands  
+- How statistical learning interacts with semantic knowledge. 
 
 ---
 
@@ -37,7 +37,7 @@ Investigating how the visual system learns to suppress dynamic and static salien
 
 ### **Saliency & Threat Detection in Fire Imagery**  
 Applying saliency models (GBVS) and image segmentation to understand how fire draws attention in captive primates who have never observed fire before.
-*In collaboration With the *Yorzinski Lab*
+*In collaboration With the Yorzinski Lab*
 
 ---
 
