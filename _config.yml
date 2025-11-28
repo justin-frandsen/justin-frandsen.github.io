@@ -328,5 +328,7 @@ defaults:
 home_page: home
 posts_page: posts
 
+favicon: /assets/images/icons/favicon.ico
+
 
 
