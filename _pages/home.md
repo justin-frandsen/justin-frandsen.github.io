@@ -14,13 +14,13 @@ feature_row1:
     title: Research
     btn_label: "See more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/phillip_home.jpg
+  - image_path: /assets/images/phil/phillip_home.jpg
     alt: "Phillip"
     url: "/phillip/"
     title: My Dog Phillip
     btn_label: "Meet Phillip"
     btn_class: "btn--primary"
-  - image_path: /assets/images/climbwyuri.jpg
+  - image_path: /assets/images/climbing/climbwyuri.jpg
     alt: "Image of me and my friend Yuri climbing"
     url: "/climbing/"
     title: Climbing

@@ -28,6 +28,12 @@ description              : "My personal portfolio showcasing my projects and wor
 url                      : "https://justin-frandsen.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"; empty for user/organization pages
 repository               : "justin-frandsen/justin-frandsen.github.io" # owner/repo form for workflows
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

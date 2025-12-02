@@ -6,13 +6,13 @@ author_profile: true
 excerpt: "Meet Phillip — my Border Collie × Blue Heeler, born on a ranch near my hometown."
 phillip_gallery:
   - url: /assets/images/phillip1.jpg
-    image_path: /assets/images/phillip1.jpg
+    image_path: /assets/images/phil/phillip1.jpg
     alt: "Phillip chillin' at a park"
   - url: /assets/images/phillip2.jpg
-    image_path: /assets/images/phillip2.jpg
+    image_path: /assets/images/phil/phillip2.jpg
     alt: "Phillip jumping on hay bales"
-  - url: /assets/images/phillip4.jpg
-    image_path: /assets/images/phillip4.jpg
+  - url: /assets/images/phil/phillip4.jpg
+    image_path: /assets/images/phil/phillip4.jpg
     alt: "Phillip climbing in Colorado Front Range with me"
 last_modified_at: 2025-11-10T20:00:00-06:00
 toc: false
