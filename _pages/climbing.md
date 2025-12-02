@@ -4,13 +4,13 @@ permalink: /climbing/
 layout: single
 author_profile: true
 feature_row:
-  - image_path: /assets/images/bouldering.jpg
+  - image_path: /assets/images/climbing/bouldering.jpg
     alt: "Photo of me bouldering in Arkansas"
     title: Arkansas Bouldering
-  - image_path: /assets/images/flatcreek-4.jpg
+  - image_path: /assets/images/climbing/flatcreek-4.jpg
     alt: "Photo of me on a steep climbing route in Texas"
     title: Texas Lead Climbing
-  - image_path: /assets/images/arkansashcr.jpg
+  - image_path: /assets/images/climbing/arkansashcr.jpg
     alt: "Me after a send in Arkansas"
     title: Arkansas Lead Climbing
 ---
