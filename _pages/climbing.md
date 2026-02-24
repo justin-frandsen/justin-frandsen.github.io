@@ -23,9 +23,7 @@ I climb primarily in two styles: **bouldering** and **lead climbing**.
 Indoors, I love training on the **Tension Board**, where I’m currently working toward sending **V9**. Outside, I enjoy exploring new boulders and routes around the country whenever I have the chance.
 
 You can follow my climbing and outdoor progress on Instagram:  
-[@just_in_climbs](https://www.instagram.com/just_in_climbs)
-
-Yes, **“just_in_climbs”** is a play on *“just in time.”*
+[@j_frandsend](https://www.instagram.com/j_frandsend)
 
 {% include feature_row %}
 
