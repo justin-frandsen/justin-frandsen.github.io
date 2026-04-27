@@ -5,8 +5,9 @@ author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_page_banner.jpg
+  caption: "Updated on April 27, 2026"
 excerpt: >
-  Welcome! I’m Justin Frandsen — a Vision Scientist studying Learning and Attention.
+  Welcome! I’m Justin Frandsen — a Vision Scientist studying how we learn to guide our attention through our environment.
 feature_row1:
   - image_path: /assets/images/eeg_pic.jpg
     alt: "Picture of an EEG cap being set up"
@@ -15,7 +16,7 @@ feature_row1:
     btn_label: "See more"
     btn_class: "btn--primary"
   - image_path: /assets/images/phil/phillip_home.jpg
-    alt: "Phillip"
+    alt: "Phillip enjoying the outdoors"
     url: "/phillip/"
     title: My Dog Phillip
     btn_label: "Meet Phillip"

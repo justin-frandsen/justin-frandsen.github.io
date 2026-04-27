@@ -1,4 +1,5 @@
 ---
+# Updated to ensure the content is current as of April 27, 2026
 title: "About"
 permalink: /about/
 layout: single
