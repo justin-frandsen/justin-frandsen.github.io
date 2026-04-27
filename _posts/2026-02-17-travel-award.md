@@ -1,6 +1,6 @@
 ---
 title: "Awarded a VSS travel grant!"
-date: 2025-11-11
+date: 2026-02-17
 categories:
   - Conferences
 tags:
