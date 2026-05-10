@@ -11,8 +11,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2026.pdf"
   width="100%"
-  height="780px"
-  style="border:none;">
+  height="600px"
+  style="border:none; display:block; margin:0 auto;">
 </iframe>
 
 [Download PDF](/assets/presentations/VSS2026.pdf)
@@ -25,8 +25,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/psychonomics2025.pdf"
   width="100%"
-  height="780px"
-  style="border:none;">
+  height="600px"
+  style="border:none; display:block; margin:0 auto;">
 </iframe>
 
 [Download PDF](/assets/presentations/psychonomics2025.pdf)
@@ -39,8 +39,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2025.pdf"
   width="100%"
-  height="500px"
-  style="border:none;">
+  height="600px"
+  style="border:none; display:block; margin:0 auto;">
 </iframe>
 
 [Download PDF](/assets/presentations/VSS2025.pdf)
@@ -53,8 +53,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/psychonomics2024.pdf#page=1"
   width="100%"
-  height="700px"
-  style="border:none;">
+  height="600px"
+  style="border:none; display:block; margin:0 auto;">
 </iframe>
 
 [Download PDF](/assets/presentations/psychonomics2024.pdf)
@@ -67,8 +67,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2024.pdf"
   width="100%"
-  height="500px"
-  style="border:none;">
+  height="600px"
+  style="border:none; display:block; margin:0 auto;">
 </iframe>
 
 [Download PDF](/assets/presentations/VSS2024.pdf)
