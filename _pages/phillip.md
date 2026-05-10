@@ -3,7 +3,7 @@ title: "Phillip"
 permalink: /phillip/
 layout: single
 author_profile: true
-excerpt: "Meet Phillip — my Border Collie × Blue Heeler, born on a ranch near my hometown."
+excerpt: "Meet Phillip — my Border Collie × Blue Heeler, born on a ranch near my hometown"
 phillip_gallery:
   - url: /assets/images/phillip1.jpg
     image_path: /assets/images/phil/phillip1.jpg
@@ -14,7 +14,7 @@ phillip_gallery:
   - url: /assets/images/phil/phillip4.jpg
     image_path: /assets/images/phil/phillip4.jpg
     alt: "Phillip climbing in Colorado Front Range with me"
-last_modified_at: 2025-11-10T20:00:00-06:00
+last_modified_at: 2026-05-10T20:00:00-06:00
 toc: false
 ---
 
@@ -22,16 +22,11 @@ Meet **Phillip** — my Border Collie × Blue Heeler mix, and the best friend I 
 
 {% include figure image_path="/assets/images/phillip3.jpg" alt="Phillip cooling off in a cattle tank on the farm" caption="Phillip cooling off in a cattle tank on the farm." %}
 
-Phillip was born on a ranch near my hometown. He is super smart and a crazy dog. He loves going on adventures and herding pigs and cows.
+Phillip was born on a ranch near my hometown, [Gordon, Nebraska](https://maps.google.com/?q=Gordon+Nebraska). He is super smart and a crazy dog. He loves going on adventures and herding pigs and cows.
 
 {% include gallery id="phillip_gallery" caption="Phillip on various adventures." %}
 
-Like most herding dogs, he has a mix of focus and energy that’s both impressive and entertaining. He can spend hours outside running and problem-solving, but when it’s time to relax, he’s just as happy to curl up by my side while I work or read.
-
-Phillip’s personality is loyal, sharp, and a little mischievous — the perfect balance of companion and character. He has a knack for showing up just when I need a reminder to take a break or get outside.
-
-> “The bond with a true dog is as lasting as the ties of this earth can ever be.”  
-> <cite>— Konrad Lorenz</cite>
+Phil is a herding dog so he loves working and chasing, but his absolute favorite is fetch. He catches frisbees (out of the air its very impressive) and chases soccer balls (hes really good at dribbling). Once I finally get him worn out, he loves relaxing and sitting by my side while I work.
 
 ---
 
