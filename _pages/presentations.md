@@ -2,6 +2,7 @@
 title: "Presentations"
 permalink: /presentations/
 layout: single
+classes: wide
 author_profile: true
 ---
 
@@ -11,10 +12,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/psychonomics2025.pdf"
   width="100%"
-  height="800px">
+  height="900px">
 </iframe>
-
-[Download PDF](/assets/presentations/psychonomics2025.pdf)
 
 ---
 
@@ -24,10 +23,8 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2025.pdf"
   width="100%"
-  height="800px">
+  height="900px">
 </iframe>
-
-[Download PDF](/assets/presentations/VSS2025.pdf)
 
 ---
 
@@ -35,12 +32,10 @@ author_profile: true
 *Relating Aversive Conditioning and Emotional Valence in the Control of Attention*
 
 <iframe
-  src="/assets/presentations/psychonomics2024.pdf"
+  src="/assets/presentations/psychonomics2024.pdf#page=1"
   width="100%"
-  height="800px">
+  height="900px">
 </iframe>
-
-[Download PDF](/assets/presentations/psychonomics2024.pdf)
 
 ---
 
@@ -50,7 +45,5 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2024.pdf"
   width="100%"
-  height="800px">
+  height="900px">
 </iframe>
-
-[Download PDF](/assets/presentations/VSS2024.pdf)
