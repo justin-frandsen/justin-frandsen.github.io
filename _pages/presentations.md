@@ -5,6 +5,19 @@ layout: single
 classes: wide
 author_profile: true
 ---
+## Vision Sciences Society (VSS), St. Pete Beach, FL (2026)
+*Curiosity ignored the cat: How exploration promotes context-dependent distractor suppression in visual search through real-world scenes* 
+
+<iframe
+  src="/assets/presentations/VSS2026.pdf"
+  width="100%"
+  height="780px"
+  style="border:none;">
+</iframe>
+
+[Download PDF](/assets/presentations/VSS2026.pdf)
+
+---
 
 ## Psychonomic Society Annual Meeting, Denver, CO (2025)
 *Up to the challenge: Suppression of multiple salient distractors*
@@ -26,7 +39,7 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2025.pdf"
   width="100%"
-  height="780px"
+  height="500px"
   style="border:none;">
 </iframe>
 
@@ -40,7 +53,7 @@ author_profile: true
 <iframe
   src="/assets/presentations/psychonomics2024.pdf#page=1"
   width="100%"
-  height="780px"
+  height="700px"
   style="border:none;">
 </iframe>
 
@@ -54,7 +67,7 @@ author_profile: true
 <iframe
   src="/assets/presentations/VSS2024.pdf"
   width="100%"
-  height="780px"
+  height="500px"
   style="border:none;">
 </iframe>
 
