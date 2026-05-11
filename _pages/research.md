@@ -6,17 +6,9 @@ author_profile: true
 toc: true
 toc_sticky: true
 last_modified_at: 2026-05-11T10:00:00-05:00
-
-research_gallery:
-  - url: /assets/images/research/ss_E1_methods.png
-    image_path: /assets/images/research/ss_E1_methods.png
-    alt: "Experiment 1 methods schematic"
-  - url: /assets/images/research/ss_E1_results.png
-    image_path: /assets/images/research/ss_E1_results.png
-    alt: "Experiment 1 behavioral results"
 ---
 
-[Download CV](/assets/cv/Justin_Frandsen_CV_Improved.pdf){: .btn .btn--primary}
+[Download CV](/assets/cv/Frandsen_CV_Improved.pdf){: .btn .btn--primary}
 &nbsp;
 [Download Resume](/assets/cv/Resume_Justin_Frandsen.pdf){: .btn .btn--inverse}
 
@@ -32,11 +24,11 @@ My central research question is:
 
 To investigate this question, I developed a visual search task in which participants searched for a target shape embedded within kitchen scenes. Four target shapes were probabilistically associated with different scene regions (e.g., floor, counter, wall), with each shape appearing in its associated region on 75% of trials.
 
-{% include figure image_path="/assets/images/methods/ss_E1_methods.png" caption="Visual search task used to investigate statistical learning of object–location regularities in naturalistic scenes." %}
+{% include figure image_path="/assets/methods/ss_E1_methods.png" caption="Visual search task used to investigate statistical learning of object–location regularities in naturalistic scenes." %}
 
 Participants became faster at locating targets when they appeared in their high-probability regions compared to low-probability regions, demonstrating that attentional guidance can emerge through statistical learning alone.
 
-{% include figure image_path="/assets/images/results/ss_E1_results.png" caption="Participants showed faster search performance for targets appearing in learned high-probability locations." %}
+{% include figure image_path="/assets/results/ss_E1_results.png" caption="Participants showed faster search performance for targets appearing in learned high-probability locations." %}
 
 This work has been accepted (and other experiments) for publication in the *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
 
