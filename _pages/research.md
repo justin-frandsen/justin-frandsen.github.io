@@ -16,15 +16,15 @@ research_gallery:
     alt: "Experiment 1 behavioral results"
 ---
 
-[Download CV](/assets/cv/Justin_Frandsen_CV.pdf){: .btn .btn--primary}
+[Download CV](/assets/cv/Justin_Frandsen_Improved.pdf){: .btn .btn--primary}
 &nbsp;
-[Download Résumé](/assets/cv/Justin_Frandsen_Resume.pdf){: .btn .btn--inverse}
+[Download Resume](/assets/cv/Resume_Justin_Frandsen.pdf){: .btn .btn--inverse}
 
-My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in Dr. Brian Anderson’s Learning and Attention Lab. My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and computational methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
+My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in [Dr. Brian Anderson’s Learning and Attention Lab](https://sites.google.com/view/andersonlab/). My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and computational methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
 
 ## Research Focus
 
-Much of my work centers on **scene grammar** — knowledge of where objects tend to appear within structured environments. Traditionally, research has used real-world objects to study how attention is guided in naturalistic scenes. However, because participants already possess extensive experience with those environments before entering the lab, it remains unclear how attentional guidance is acquired through learning itself.
+Much of my work centers on **scene grammar** — knowledge of where objects tend to appear within structured environments. Traditionally, research has used real-world objects to study how attention is guided in naturalistic scenes. However, because participants already possess extensive experience with those environments before entering the lab, it remains unclear how this attentional guidance is acquired.
 
 My central research question is:
 
@@ -32,17 +32,15 @@ My central research question is:
 
 To investigate this question, I developed a visual search task in which participants searched for a target shape embedded within kitchen scenes. Four target shapes were probabilistically associated with different scene regions (e.g., floor, counter, wall), with each shape appearing in its associated region on 75% of trials.
 
-{% include figure image_path="/assets/images/research/ss_E1_methods.png" alt="Experiment 1 methods schematic" caption="Visual search task used to investigate statistical learning of object–location regularities in naturalistic scenes." %}
+{% include figure image_path="/assets/images/research/ss_E1_methods.png" caption="Visual search task used to investigate statistical learning of object–location regularities in naturalistic scenes." %}
 
 Participants became faster at locating targets when they appeared in their high-probability regions compared to low-probability regions, demonstrating that attentional guidance can emerge through statistical learning alone.
 
-{% include figure image_path="/assets/images/research/ss_E1_results.png" alt="Experiment 1 behavioral results" caption="Participants showed faster search performance for targets appearing in learned high-probability locations." %}
+{% include figure image_path="/assets/images/research/ss_E1_results.png" caption="Participants showed faster search performance for targets appearing in learned high-probability locations." %}
 
-This work has been accepted for publication in the *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
+This work has been accepted (and other experiments) for publication in the *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
 
 > **Frandsen, J. L.** & Anderson, B. A. (accepted). *The role of statistical learning in attentional guidance during search through naturalistic scenes*. *Journal of Experimental Psychology: Learning, Memory, and Cognition.*
-
-{% include gallery id="research_gallery" caption="Methods and behavioral findings from naturalistic scene search experiments." %}
 
 ## Current Projects
 
