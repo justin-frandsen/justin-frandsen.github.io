@@ -20,7 +20,7 @@ toc: false
 
 Meet **Phillip (Philly) Cheesesteak** — my Border Collie × Blue Heeler mix and my best friend.
 
-{% include figure image_path="/assets/images/phillip3.jpg" alt="Phillip cooling off in a cattle tank on the farm" caption="Phillip cooling off in a cattle tank on the farm." %}
+{% include figure image_path="/assets/images/phil/phillip3.jpg" alt="Phillip cooling off in a cattle tank on the farm" caption="Phillip cooling off in a cattle tank on the farm." %}
 
 Phil was born on a ranch near my hometown, [Gordon, Nebraska](https://maps.google.com/?q=Gordon+Nebraska). He is super smart and a crazy dog. He loves going on adventures and herding pigs and cows.
 

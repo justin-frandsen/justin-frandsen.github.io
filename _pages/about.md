@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm a PhD student in Cognition and Cognitive Neuroscience at **Texas A&M University**, working in the [Learning and Attention Lab](https://sites.google.com/view/andersonlab/) with Dr. Brian Anderson.
 
-My research investigates how **statistical regularities in the environment** shape visual attention — and how attention, in turn, shapes what we learn. I'm particularly interested in how these dynamics play out in naturalistic, real-world scenes. My work draws on behavioral experiments, eye-tracking, and computational approaches (e.g., saliency modeling) to understand how experience guides where we look and what we suppress.
+My research investigates how **statistical regularities in the environment** shape visual attention. I'm particularly interested in how these dynamics play out in naturalistic, real-world scenes. My work draws on behavioral experiments, eye-tracking, and computational approaches (e.g., saliency modeling) to understand how experience guides where we look and what we suppress.
 
 Current projects span:
 - How object–location regularities are acquired and guide search in real-world scenes
