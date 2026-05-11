@@ -26,7 +26,7 @@ Phil was born on a ranch near my hometown, [Gordon, Nebraska](https://maps.googl
 
 {% include gallery id="phillip_gallery" caption="Phillip on various adventures." %}
 
-Phil is a herding dog so he loves working and chasing, but his absolute favorite is fetch. He catches frisbees (out of the air its very impressive) and chases soccer balls (hes really good at dribbling). Once I finally get him worn out, he loves relaxing and sitting by my side while I work.
+Phil is a herding dog so he loves working and chasing, but his absolute favorite is fetch. He catches frisbees (out of the air it's very impressive) and chases soccer balls (he's really good at dribbling). Once I finally get him worn out, he loves relaxing and sitting by my side while I work.
 
 ---
 
