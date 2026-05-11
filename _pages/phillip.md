@@ -18,11 +18,11 @@ last_modified_at: 2026-05-10T20:00:00-06:00
 toc: false
 ---
 
-Meet **Phillip** — my Border Collie × Blue Heeler mix, and the best friend I could ask for.
+Meet **Phillip (Philly) Cheesesteak** — my Border Collie × Blue Heeler mix and my best friend.
 
 {% include figure image_path="/assets/images/phillip3.jpg" alt="Phillip cooling off in a cattle tank on the farm" caption="Phillip cooling off in a cattle tank on the farm." %}
 
-Phillip was born on a ranch near my hometown, [Gordon, Nebraska](https://maps.google.com/?q=Gordon+Nebraska). He is super smart and a crazy dog. He loves going on adventures and herding pigs and cows.
+Phil was born on a ranch near my hometown, [Gordon, Nebraska](https://maps.google.com/?q=Gordon+Nebraska). He is super smart and a crazy dog. He loves going on adventures and herding pigs and cows.
 
 {% include gallery id="phillip_gallery" caption="Phillip on various adventures." %}
 
