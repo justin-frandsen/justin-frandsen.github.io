@@ -24,7 +24,7 @@ My central research question is:
 
 To investigate this question, I developed a visual search task in which participants searched for a target shape embedded within kitchen scenes. Four target shapes were probabilistically associated with different scene regions (e.g., floor, counter, wall), with each shape appearing in its associated region on 75% of trials.
 
-{% include figure image_path="/assets/methods/ss_E1_methods.png" caption="Visual search task used to investigate statistical learning of object–location regularities in naturalistic scenes." %}
+{% include figure image_path="/assets/methods/ss_E1_method.png" caption="Visual search task used to investigate statistical learning of object–location regularities in naturalistic scenes." %}
 
 Participants became faster at locating targets when they appeared in their high-probability regions compared to low-probability regions, demonstrating that attentional guidance can emerge through statistical learning alone.
 
