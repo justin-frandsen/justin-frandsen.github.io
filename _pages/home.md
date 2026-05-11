@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_page_banner.jpg
-  caption: "Updated on April 27, 2026"
+  caption: "Updated on May 11, 2026"
 excerpt: >
   Welcome! I’m Justin Frandsen — a Vision Scientist studying how we learn to guide our attention through our environment.
 feature_row1:
@@ -31,7 +31,8 @@ feature_row1:
 
 **My name is Justin Frandsen.** I am currently a *graduate researcher* in the **Learning and Attention Lab** at **Texas A&M University**, where I study how experience shapes *attentional guidance*.
 
-My work focuses on how humans learn to efficiently attend to information in complex environments. For example, when searching a kitchen for a **teapot**, you’re likely to check the **stovetop** first because, through past experience, you have learned where it is most likely to be. These expectations form what we call **scene grammar** — the set of *rules and regularities* that guide attention within real-world scenes.
+My work focuses on how humans learn to efficiently attend to information in complex environments. For example, when searching a kitchen for a **tea kettle**, you’re likely to check the **stovetop** first because, through past experience, you have learned where it is most likely to be. These expectations form what we call **scene grammar** — the set of *rules and regularities* that guide attention within real-world scenes.
 
+I look to study how this guidance (semantic and statistical) is learned and utilized by our attentional system. For a list of 
 
 {% include feature_row id="feature_row1" %}
