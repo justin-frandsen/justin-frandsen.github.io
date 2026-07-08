@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_page_banner.jpg
-  caption: "Updated on May 11, 2026"
+  caption: "Updated on July 8, 2026"
 excerpt: >
   Welcome! I’m Justin Frandsen — a Vision Scientist studying how we learn to guide our attention through our environment.
 feature_row1:
