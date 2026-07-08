@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Publications
 
-**Frandsen, J. L.** & Anderson, B. A. (accepted). The role of statistical learning in attentional guidance during search through naturalistic scenes. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* <a href="/404.html" target="_blank"> <img src="/assets/images/icons/pdf.png" alt="PDF" style="width:16px; margin-left:6px; vertical-align:middle;" /> </a>
+**Frandsen, J. L.** & Anderson, B. A. (accepted). The role of statistical learning in attentional guidance during search through naturalistic scenes. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* <a href="/assets/publications/Frandsen&Anderson2026.pdf" target="_blank"> <img src="/assets/images/icons/pdf.png" alt="PDF" style="width:16px; margin-left:6px; vertical-align:middle;" /> </a>
 
 ---
 

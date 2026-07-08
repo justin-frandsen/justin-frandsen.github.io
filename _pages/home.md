@@ -33,6 +33,6 @@ feature_row1:
 
 My work focuses on how humans learn to efficiently attend to information in complex environments. For example, when searching a kitchen for a **tea kettle**, you’re likely to check the **stovetop** first because, through past experience, you have learned where it is most likely to be. These expectations form what we call **scene grammar** — the set of *rules and regularities* that guide attention within real-world scenes.
 
-I look to study how this guidance (semantic and statistical) is learned and utilized by our attentional system. For a list of 
+I look to study how this guidance (semantic and statistical) is learned and utilized by our attentional system.
 
 {% include feature_row id="feature_row1" %}
