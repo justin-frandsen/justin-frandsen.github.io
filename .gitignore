@@ -24,6 +24,10 @@ codekit-config.json
 # macOS
 .DS_Store
 
+# Microsoft Office temp/lock files
+~$*
+*.tmp
+
 # Jekyll generated files
 .jekyll-cache
 .jekyll-metadata
