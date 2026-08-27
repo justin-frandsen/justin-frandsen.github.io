@@ -12,27 +12,22 @@ toc: false
 
 Welcome to the lab wiki. EDIT THIS TEXT
 
-
 <style>
 .wiki-scroll {
   display: flex;
   flex-direction: column;      /* stack items top to bottom */
   flex-wrap: nowrap;
   gap: 1em;
-  max-height: 600px;           /* adjust to taste; enables scroll when many */
-  overflow-y: auto;            /* vertical scroll instead of horizontal */
   padding-right: 1em;
-  -webkit-overflow-scrolling: touch;
 }
 .wiki-scroll__item {
-  flex: 0 0 auto;              /* size to content instead of fixed 280px width */
-  width: 100%;                /* full width so cards stack neatly */
+  flex: 0 0 auto;
+  width: 100%;
 }
 .wiki-scroll__item .card {
   height: 100%;
 }
 </style>
-
 
 <div class="wiki-scroll">
 
