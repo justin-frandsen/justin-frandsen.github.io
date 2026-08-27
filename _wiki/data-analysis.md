@@ -1,8 +1,9 @@
 ---
 title: "Data Analysis"
-excerpt: "Analysis pipeline, tools, and reproducibility conventions."
+excerpt: "Analysis tools and suggestions."
 ---
 
+ADD TEXT
 
 ## Resources
 
@@ -11,4 +12,4 @@ excerpt: "Analysis pipeline, tools, and reproducibility conventions."
 
 ---
 
-*Document analysis methods in `_wiki/data-analysis.md`.*
+*Feel free to add new info at `_wiki/data-analysis.md`.*

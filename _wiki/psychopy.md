@@ -1,9 +1,9 @@
 ---
 title: "PsychoPy"
-excerpt: "Building, running, and sharing experiments with PsychoPy."
+excerpt: "Building experiments with PsychoPy."
 ---
 
-TO ADD (We are just getting started so please be patient :] ) 
+ADD TEXT
 
 ---
 
