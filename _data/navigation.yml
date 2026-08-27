@@ -4,9 +4,26 @@ main:
     url: /about/ #https://justin-frandsen.github.io/about/
   - title: "Research"
     url: /research/
+  - title: "Lab Wiki"
+    url: /lab-wiki/
   - title: "Posts"
     url: /posts/
   - title: "Presentations"
     url: /presentations/
   - title: "Publications"
     url: /publications/
+
+# lab wiki sidebar
+wiki:
+  - title: "Lab Wiki"
+    children:
+      - title: "Overview"
+        url: /lab-wiki/
+      - title: "Getting Started"
+        url: /lab-wiki/getting-started/
+      - title: "Eye Tracking"
+        url: /lab-wiki/eyetracking/
+      - title: "PsychoPy"
+        url: /lab-wiki/psychopy/
+      - title: "Data Analysis"
+        url: /lab-wiki/data-analysis/

@@ -33,6 +33,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  wiki:
+    output: true
+    permalink: /lab-wiki/:path/
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -332,6 +335,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _wiki
+  - scope:
+      path: ""
+      type: wiki
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "wiki"
+      toc: true
+      toc_sticky: true
 
 
 # Set the home page and posts page

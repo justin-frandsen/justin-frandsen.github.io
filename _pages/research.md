@@ -12,7 +12,7 @@ last_modified_at: 2026-05-11T10:00:00-05:00
 &nbsp;
 [Download Resume](/assets/cv/Resume_Justin_Frandsen.pdf){: .btn .btn--inverse}
 
-My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in [Dr. Brian Anderson’s Learning and Attention Lab](https://sites.google.com/view/andersonlab/). My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and computational methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
+My name is **Justin Frandsen**, and I am a *Ph.D. student in Cognition and Cognitive Neuroscience* at **Texas A&M University** in [Dr. Brian Anderson’s Learning and Attention Lab](https://andersonlab.sites.tamu.edu/). My research investigates how **visual attention** and **learning mechanisms** guide behavior in complex, naturalistic environments. I use behavioral experiments, **eye tracking**, and computational methods to examine how people learn regularities, build expectations, and deploy attention efficiently.
 
 ## Research Focus
 
